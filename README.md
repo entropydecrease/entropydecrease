@@ -1,4 +1,4 @@
-思考与写作，都是熵减的过程。
+阅读、思考、写作，都是熵减的过程
 
 <!---
 entropydecrease/entropydecrease is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
